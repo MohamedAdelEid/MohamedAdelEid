@@ -165,5 +165,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-**⭐ From [Mohamed Adel Eid](https://github.com/MohamedAdelEid) - Thanks for visiting! 🚀**
+  <strong>⭐ From <a href="https://github.com/MohamedAdelEid">Mohamed Adel Eid</a> — Thanks for visiting! 🚀</strong>
 </div>
+
