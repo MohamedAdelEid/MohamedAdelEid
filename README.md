@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### 📄 My Resume & CV
-[![Download CV](https://img.shields.io/badge/📎_Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4)](https://drive.google.com/file/d/1dUVPyn1Nky9_NVGXxYnyJH343RLdQo8a/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/📎Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4)](https://drive.google.com/file/d/1dUVPyn1Nky9_NVGXxYnyJH343RLdQo8a/view?usp=sharing)
 
 </div>
 
@@ -16,11 +16,14 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Computer Science Graduate** from South Valley University with expertise in full-stack web development. 💼 **Currently working** as Full Stack Developer at Age Language Company, where I develop and maintain custom LMS platforms and enhance open-source event management systems. 🌟 **Passionate** about building scalable, user-focused web applications using modern technologies like Laravel and Next.js. 🏗️ **Specialized** in clean architecture, SOLID principles, and efficient database design to create maintainable and robust solutions. 📚 **Always learning** and staying updated with the latest technologies while mentoring fellow developers. 🎯 **Mission:** Solving real-world problems through innovative engineering solutions that make a meaningful impact.
+🎓 **Computer Science Graduate** from South Valley University  
+💼 **Currently working** as Full Stack Developer at Age Language Company  
+🌟 **Passionate** about building scalable, user-focused web applications  
+🏗️ **Specialized** in clean architecture, SOLID principles, and efficient database design  
+📚 **Always learning** and staying updated with the latest technologies  
+🎯 **Mission:** Solving real-world problems through innovative engineering solutions
 
 ### 🌟 What I Do:
 - 🔧 Build **full-stack web applications** using modern technologies
@@ -93,7 +96,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAdelEid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAdelEid&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdelEid&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -105,6 +108,23 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohamedAdelEid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
+
+</div>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🎓 Education
+**Bachelor's Degree in Computer Science**  
+*South Valley University, Faculty of Computers and Information*  
+📅 Sept 2021 - June 2025 (Graduated)
+
+### 📜 Certifications
+- 🏆 **PHP Web Developer Track** - Digital Egypt Pioneers, MCIT (2024)
+- 💻 **PHP & MySQL** - ITI Qena (2023)
+- 🎨 **Web Design** - Digital Egypt Youth Program, NTI (2022-2023)
+- 🤖 **Artificial Intelligence Summer Training** - ITIDA & NTI (2022)
 
 </div>
 
@@ -134,28 +154,9 @@
 
 ---
 
-<div align="center">
-
-## 🌟 Fun Facts About Me
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
-
-- 🔥 I love teaching and mentoring other developers
-- 🌱 Always exploring new technologies and frameworks
-- 🎯 Passionate about clean code and best practices
-- 🤝 Strong believer in teamwork and collaboration
-- 🧩 Enjoy solving complex problems with simple solutions
-
----
-
 ## 📈 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=MohamedAdelEid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
----
-
-### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
