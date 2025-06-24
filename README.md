@@ -1,11 +1,14 @@
 <div align="center">
 
 # 👋 Hi there, I'm Mohamed Adel Eid!
-### 🚀 Full Stack Developer | Laravel & Next.js Specialist
+## 👨‍💻 Software Engineer | Full Stack Developer (Laravel & Next.js)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Laravel+%26+Next.js+Expert;Building+Scalable+Web+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+### 📄 My Resume & CV
+[![Download CV](https://img.shields.io/badge/📎_Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4)](https://drive.google.com/file/d/1dUVPyn1Nky9_NVGXxYnyJH343RLdQo8a/view?usp=sharing)
 
 </div>
 
@@ -13,14 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
-🎓 **Computer Science Graduate** from South Valley University  
-💼 **Currently working** as Full Stack Developer at Age Language Company  
-🌟 **Passionate** about building scalable, user-focused web applications  
-🏗️ **Specialized** in clean architecture, SOLID principles, and efficient database design  
-📚 **Always learning** and staying updated with the latest technologies  
-🎯 **Mission:** Solving real-world problems through innovative engineering solutions
+🎓 **Computer Science Graduate** from South Valley University with expertise in full-stack web development. 💼 **Currently working** as Full Stack Developer at Age Language Company, where I develop and maintain custom LMS platforms and enhance open-source event management systems. 🌟 **Passionate** about building scalable, user-focused web applications using modern technologies like Laravel and Next.js. 🏗️ **Specialized** in clean architecture, SOLID principles, and efficient database design to create maintainable and robust solutions. 📚 **Always learning** and staying updated with the latest technologies while mentoring fellow developers. 🎯 **Mission:** Solving real-world problems through innovative engineering solutions that make a meaningful impact.
 
 ### 🌟 What I Do:
 - 🔧 Build **full-stack web applications** using modern technologies
@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohamedadell@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201114979112)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
@@ -74,7 +74,6 @@
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -94,7 +93,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAdelEid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdelEid&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAdelEid&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -106,72 +105,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohamedAdelEid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 HIRBOT - AI-Powered Recruitment Platform
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-**🎯 Graduation Project | Team Leader**  
-Smart recruitment platform with AI-powered tools and microservices architecture
-
-**🛠️ Tech Stack:** Laravel, Next.js, TypeScript, Tailwind CSS, MySQL  
-**✨ Features:** ATS Pipeline, AI Scoring, Social Feed, Real-time Tracking
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hirbot.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/hirbot)
-
----
-
-### 🏠 Khmasat - Real Estate Management Platform
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
-**🏢 Company Project | Real Estate Services**  
-Comprehensive platform for property marketing and client-agent communication
-
-**🛠️ Tech Stack:** Laravel, JavaScript, Tailwind CSS, MySQL  
-**✨ Features:** Property Management, Request Tracking, Role-based Dashboards
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://khmasat.alkyall.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/khmasat)
-
----
-
-### 🛡️ Takaful - Islamic Insurance API
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-
-**📋 Backend Service | Insurance Application**  
-Sharia-compliant insurance API with multiple policy types
-
-**🛠️ Tech Stack:** Laravel, MySQL, RESTful APIs  
-**✨ Features:** Policy Management, Premium Calculation, Emergency Services
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/takaful)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-### 🎓 Education
-**Bachelor's Degree in Computer Science**  
-*South Valley University, Faculty of Computers and Information*  
-📅 Sept 2021 - June 2025 (Graduated)
-
-### 📜 Certifications
-- 🏆 **PHP Web Developer Track** - Digital Egypt Pioneers, MCIT (2024)
-- 💻 **PHP & MySQL** - ITI Qena (2023)
-- 🎨 **Web Design** - Digital Egypt Youth Program, NTI (2022-2023)
-- 🤖 **Artificial Intelligence Summer Training** - ITIDA & NTI (2022)
 
 </div>
 
@@ -217,7 +150,7 @@ Sharia-compliant insurance API with multiple policy types
 
 ## 📈 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohamedAdelEid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
@@ -228,38 +161,6 @@ Sharia-compliant insurance API with multiple policy types
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**⭐ From [Mohamed Adel Eid](https://github.com/your-username) - Thanks for visiting! 🚀**
+**⭐ From [Mohamed Adel Eid](https://github.com/MohamedAdelEid) - Thanks for visiting! 🚀**
 
 </div>
-```
-
-This GitHub profile README includes everything you requested:
-
-🎯 **Key Features:**
-- **Animated header** with typing effect and welcome GIF
-- **Professional About Me** section based on your CV
-- **Social connection badges** with hover effects
-- **Comprehensive tech stack** with colorful badges
-- **GitHub stats, trophies, and activity graphs**
-- **Featured projects** with live demo links
-- **Education and certifications** section
-- **Professional experience** timeline
-- **Fun facts and personality** elements
-
-🎨 **Visual Elements:**
-- Multiple animated GIFs throughout
-- Colorful shields.io badges
-- GitHub stats with Tokyo Night theme
-- Typing animation for the header
-- Profile view counter
-- Daily quote widget
-
-📝 **To customize:**
-1. Replace `your-username` with your actual GitHub username
-2. Add your real social media links
-3. Update project repository links
-4. Add your portfolio website URL
-5. Customize the quote widget theme if desired
-
-This README will definitely grab attention and showcase your professional skills in a visually appealing way! 🌟
-
